@@ -7,15 +7,13 @@ There are code for same problems in C++ and python in there respective directori
 If you wish you can add any new language within its directory like java or C.
 
 Running codes :
-	C++ - The codes in c++ can be compile using g++.
+C++ - The codes in c++ can be compile using g++.
 	example : g++ store-credit.cpp
 	
-	For some programs the GMP (GNU Multi Precision library) is used to do calculations in large numbers.
-	Check if gmp.h header file is included in code. Compile these codes as below
+For some programs the GMP (GNU Multi Precision library) is used to do calculations in large numbers.
+Check if gmp.h header file is included in code. Compile these codes as below
 	example : g++ minimum-scalar-product.cpp -lgmp -lgmpxx  this requires GMP library to be installed on your system.
-	GMP library is open source and you can download it from here https://gmplib.org/
+GMP library is open source and you can download it from here https://gmplib.org/
 	
-	Python - The codes in python are python version 3 codes.
-	example : python3 store-credit.py
-	
-	
+Python - The codes in python are python version 3 codes.
+	example : python3 store-credit.py	
