@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 	int test_cases;
 	mpf_t root_five;
-	mpf_set_default_prec(1024*1024);
+	mpf_set_default_prec(1024);
 	mpf_init(root_five);
 	mpf_sqrt_ui(root_five,5);
 	mpf_t sum3;

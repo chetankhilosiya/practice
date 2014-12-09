@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import math
 from decimal import *
-getcontext().prec = 100000000
+getcontext().prec = 100000
 root_five = Decimal(5).sqrt()
 sum3 = Decimal(3) + root_five
 test_cases = int(input())
