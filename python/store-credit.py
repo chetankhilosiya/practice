@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 test_cases = int(input())
 i=0
 while i<test_cases:

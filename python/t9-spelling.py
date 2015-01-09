@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 key_combinations = {
 	'a':2, 'b':22, 'c':222,
 	'd':3, 'e':33, 'f':333,
